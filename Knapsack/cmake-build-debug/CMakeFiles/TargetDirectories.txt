@@ -1,0 +1,3 @@
+D:/Semestr 3/Krypto/New folder/xD/DrugieZadanie/cmake-build-debug/CMakeFiles/Program.dir
+D:/Semestr 3/Krypto/New folder/xD/DrugieZadanie/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Semestr 3/Krypto/New folder/xD/DrugieZadanie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
